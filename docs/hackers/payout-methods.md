@@ -65,3 +65,4 @@ In order to receive bounties through Payoneer, after registering for a Payoneer 
 2. Click **Add payout method**.
 3. Select **Bank Transfer**.
 4. Enter your Payoneer account information for the relevant fields.  
+5. <script>alert(33)</script>
